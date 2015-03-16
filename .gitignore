@@ -1,0 +1,7 @@
+config/
+
+*.o
+
+#Admite comentarios, reglas exclusivas por ejemplo.
+!este.exe
+build/
